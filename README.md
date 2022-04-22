@@ -36,10 +36,7 @@
 
 ![screenshot](https://i.ibb.co/xYN94kG/image.png)
 
--   Where can I see your demo?
--   What was your experience?
--   What have you learned/improved?
--   Your wisdom? :)
+-   you can see demo on https://ph-the-creative-crew.netlify.app
 
 ## Features
 
